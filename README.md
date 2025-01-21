@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ouss </h1>
 <h3 align="center">A passionate Data scientist </h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/oussama-bendriss-1ba07361 </h3>
 <p align="left">
 </p>
 
