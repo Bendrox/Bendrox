@@ -41,7 +41,7 @@
   </a> 
 </p>
 
-<h3 align="left">My Personal Projects (in French):</h3>
+<h3 align="left">My Personal Projects :</h3>
 
 <h4 align="left">Large Language Models</h4>
 <ul>
@@ -68,7 +68,7 @@
 
 ---
 
-<h3 align="left">My Personal Projects (in English):</h3>
+<h3 align="left">My Personal Projects :</h3>
 
 <h4 align="left">Large Language Models</h4>
 <ul>
