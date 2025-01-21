@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ouss </h1>
 <h3 align="center">A passionate Data scientist </h3>
 
-<h3 align="left">Connect with me: www.linkedin.com/in/oussama-bendriss-1ba07361 </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -60,9 +60,4 @@
 <ul>
   <li><b>DS Valeo Challenge:</b> Projet de Data Science axé sur l'analyse et la modélisation de données fournies par Valeo.</li>
   <li><b>DA Étude Bonvivre:</b> Étude d'analyse de données explorant des comportements et tendances sur un dataset spécifique.</li>
-</ul>
-
-<h4 align="left">Legal API Projects</h4>
-<ul>
-  <li><b>Legal API Projects:</b> Développement d'APIs pour interagir avec LegiFrance et EurLex, facilitant l'accès et l'analyse des données juridiques.</li>
 </ul>
