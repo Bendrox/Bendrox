@@ -33,8 +33,8 @@
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="databricks" width="40" height="40"/> 
   </a> 
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/_static/langchain-logo.png" alt="langchain" width="40" height="40"/> 
+  <a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/104678321/221405701-64027b4e-045b-4c38-bab0-4c125f80b7aa.png" alt="langchain" width="40" height="40"/> 
   </a> 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
@@ -47,7 +47,7 @@
 <ul>
   <li><b>Advanced RAG:</b> Techniques avancées de Retrieval-Augmented Generation pour enrichir les modèles LLM avec des bases de connaissances.</li>
   <li><b>LangChain Applications:</b> Développement de pipelines IA en utilisant LangChain et Azure, comme les chatbots et assistants basés sur les données.</li>
-  <li><b>LLM Azure Whisper:</b> Intégration de LLM avec des outils de reconnaissance vocale comme Whisper pour des cas d'usage professionnels.</li>
+  <li><b>LLM Azure Whisper:</b> Outil d'exploitation de vidéos de communications financières à destination des investisseurs pour la génération de fiches d'analyses financières en combinant Azure Whisper (Video to Text) et un LLM (GPT-4).</li>
 </ul>
 
 <h4 align="left">Machine Learning</h4>
