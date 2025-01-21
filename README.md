@@ -44,11 +44,6 @@
 
 <h3 align="left">My Personal Projects:</h3>
 
-<h4 align="left">Open Source Model Exploitation</h4>
-<ul>
-  <li><b>Open-Source Models with Hugging Face:</b> Exploration et déploiement de modèles open source pour le NLP.</li>
-</ul>
-
 <h4 align="left">Large Language Models</h4>
 <ul>
   <li><b>Advanced RAG:</b> Techniques avancées de Retrieval-Augmented Generation pour enrichir les modèles LLM avec des bases de connaissances.</li>
@@ -60,4 +55,9 @@
 <ul>
   <li><b>DS Valeo Challenge:</b> Projet de Data Science axé sur l'analyse et la modélisation de données fournies par Valeo.</li>
   <li><b>DA Étude Bonvivre:</b> Étude d'analyse de données explorant des comportements et tendances sur un dataset spécifique.</li>
+</ul>
+
+<h4 align="left">Open Source Model Exploitation</h4>
+<ul>
+  <li><b>Open-Source Models with Hugging Face:</b> Exploration et déploiement de modèles Open Source (Text to Text, Speech to Text, Text to Speech, multi modal ...).</li>
 </ul>
