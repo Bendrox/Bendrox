@@ -51,10 +51,11 @@
   <li><b>LangChain Applications:</b> Développement de pipelines IA en utilisant LangChain et Azure, comme les chatbots et assistants basés sur les données.</li>
   <li><b>LLM Azure Whisper:</b> Intégration de LLM avec des outils de reconnaissance vocale comme Whisper pour des cas d'usage professionnels.</li>
 </ul>
+  <li><b>Legal API Projects:</b> Développement d'APIs pour interagir avec LegiFrance et EurLex, facilitant l'accès et l'analyse des données juridiques.</li>
+</ul>
 
 <h4 align="left">Machine Learning</h4>
 <ul>
   <li><b>DS Valeo Challenge:</b> Projet de Data Science axé sur l'analyse et la modélisation de données fournies par Valeo.</li>
   <li><b>DA Étude Bonvivre:</b> Étude d'analyse de données explorant des comportements et tendances sur un dataset spécifique.</li>
-  <li><b>Legal API Projects:</b> Développement d'APIs pour interagir avec LegiFrance et EurLex, facilitant l'accès et l'analyse des données juridiques.</li>
-</ul>
+
