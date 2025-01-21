@@ -44,8 +44,8 @@
 <ul>
   <li><b>LLM Azure Whisper:</b> Outil d'exploitation de vidéos de communications financières à destination des investisseurs pour la génération de fiches d'analyses financières en combinant Azure Whisper (Video to Text) et un LLM (GPT-4).</li>
   <li><b>LLM SFCR Exploitation Langchain Azure:</b> Outil d'exploitation de données SFCR (Rapport sur la solvabilité et la situation financière) pour l'analyse des organismes d'assurance en utilisant un LLM (GPT-4) et LangChain.</li>
-  <li><b>LangChain Applications (En cours):</b> Développement de pipelines IA en utilisant LangChain et Azure, comme les chatbots et assistants basés sur les données.</li>
-  <li><b>Advanced RAG (En cours):</b> Techniques avancées de Retrieval-Augmented Generation pour enrichir les modèles LLM avec des bases de connaissances.</li>
+  <li><b>LangChain Applications (en cours):</b> Développement de pipelines IA en utilisant LangChain et Azure, comme les chatbots et assistants basés sur les données.</li>
+  <li><b>Advanced RAG (en cours):</b> Techniques avancées de Retrieval-Augmented Generation pour enrichir les modèles LLM avec des bases de connaissances.</li>
 </ul>
 
 <h4 align="left">Machine Learning</h4>
