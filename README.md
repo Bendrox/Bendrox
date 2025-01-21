@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ouss </h1>
 <h3 align="center">A passionate Data scientist </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
@@ -54,10 +50,14 @@
 <h4 align="left">Machine Learning</h4>
 <ul>
   <li><b>DS Valeo Challenge:</b> Projet de Data Science axé sur l'analyse et la modélisation de données fournies par Valeo.</li>
+</ul>
+
+<h4 align="left">Data Analysis</h4>
+<ul>
   <li><b>DA Étude Bonvivre:</b> Étude d'analyse de données explorant des comportements et tendances sur un dataset spécifique.</li>
 </ul>
 
-<h4 align="left">Open Source Model Exploitation</h4>
+<h4 align="left">HuggingFace</h4>
 <ul>
   <li><b>Open-Source Models with Hugging Face:</b> Exploration et déploiement de modèles Open Source (Text to Text, Speech to Text, Text to Speech, multi modal ...).</li>
 </ul>
