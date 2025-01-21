@@ -33,19 +33,22 @@
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="databricks" width="40" height="40"/> 
   </a> 
+  <a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/105462632?s=200&v=4" alt="langchain" width="40" height="40"/> 
+  </a> 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
   </a> 
 </p>
 
-<h3 align="left">My Personal Projects:</h3>
+<h3 align="left">My Personal Projects (in French):</h3>
 
 <h4 align="left">Large Language Models</h4>
 <ul>
   <li><b>LLM Azure Whisper:</b> Outil d'exploitation de vidéos de communications financières à destination des investisseurs pour la génération de fiches d'analyses financières en combinant Azure Whisper (Video to Text) et un LLM (GPT-4).</li>
   <li><b>LLM SFCR Exploitation Langchain Azure:</b> Outil d'exploitation de données SFCR (Rapport sur la solvabilité et la situation financière) pour l'analyse des organismes d'assurance en utilisant un LLM (GPT-4) et LangChain.</li>
-  <li><b>LangChain Applications (en cours):</b> Développement de pipelines IA en utilisant LangChain et Azure, comme les chatbots et assistants basés sur les données.</li>
-  <li><b>Advanced RAG (en cours):</b> Techniques avancées de Retrieval-Augmented Generation pour enrichir les modèles LLM avec des bases de connaissances.</li>
+  <li><b>LangChain Applications (En cours):</b> Développement de pipelines IA en utilisant LangChain et Azure, comme les chatbots et assistants basés sur les données.</li>
+  <li><b>Advanced RAG (En cours):</b> Techniques avancées de Retrieval-Augmented Generation pour enrichir les modèles LLM avec des bases de connaissances.</li>
 </ul>
 
 <h4 align="left">Machine Learning</h4>
@@ -61,4 +64,31 @@
 <h4 align="left">HuggingFace</h4>
 <ul>
   <li><b>Open-Source Models with Hugging Face:</b> Exploration et déploiement de modèles Open Source (Text to Text, Speech to Text, Text to Speech, multi modal ...).</li>
+</ul>
+
+---
+
+<h3 align="left">My Personal Projects (in English):</h3>
+
+<h4 align="left">Large Language Models</h4>
+<ul>
+  <li><b>LLM Azure Whisper:</b> Tool for exploiting financial communication videos aimed at investors to generate financial analysis reports by combining Azure Whisper (Video to Text) and an LLM (GPT-4).</li>
+  <li><b>LLM SFCR Exploitation Langchain Azure:</b> A tool for leveraging SFCR (Solvency and Financial Condition Reports) data to analyze insurance entities using an LLM (GPT-4) and LangChain.</li>
+  <li><b>LangChain Applications (Ongoing):</b> Development of AI pipelines using LangChain and Azure, such as chatbots and data-driven assistants.</li>
+  <li><b>Advanced RAG (Ongoing):</b> Advanced techniques for Retrieval-Augmented Generation to enhance LLMs with knowledge bases.</li>
+</ul>
+
+<h4 align="left">Machine Learning</h4>
+<ul>
+  <li><b>DS Valeo Challenge:</b> A Machine Learning problem (supervised classification) with an imbalanced dataset and missing data to detect damaged parts at Valeo.</li>
+</ul>
+
+<h4 align="left">Data Analysis</h4>
+<ul>
+  <li><b>DA Étude Bonvivre:</b> Construction of a dataset for studying 119 countries based on various selected criteria grouped under the notion of "bon vivre" (good living), with the establishment of country categories.</li>
+</ul>
+
+<h4 align="left">HuggingFace</h4>
+<ul>
+  <li><b>Open-Source Models with Hugging Face:</b> Exploration and deployment of Open Source models (Text to Text, Speech to Text, Text to Speech, multi-modal, etc.).</li>
 </ul>
