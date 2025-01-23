@@ -60,7 +60,7 @@
 
 <h4 align="left">HuggingFace</h4>
 <ul>
-  <li><b>Open-Source Models with Hugging Face:</b> Exploration et déploiement de modèles Open Source (Text to Text, Speech to Text, Text to Speech, multi modal ...).</li>
+  <li><b>Open-Source Models with Hugging Face:</b> Exploration de modèles Open Source (Text to Text, Speech to Text, Text to Speech, multi modal ...).</li>
 </ul>
 
 ---
