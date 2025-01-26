@@ -40,7 +40,7 @@
 <br><br>
 
 <div align="justify">
-<h3>My Personal Projects :</h3>
+<h3>Projets perso :</h3>
 
 <h4>Large Language Models</h4>
 <ul>
