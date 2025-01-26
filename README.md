@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ouss, a passionate Data scientist </h1>
 
-<h3 align="center">Languages and Tools:</h3>
-<br><br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
