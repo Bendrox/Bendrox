@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ouss </h1>
 <h3 align="center">A passionate Data scientist </h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   </a> 
@@ -46,6 +46,7 @@
   <li><b>LLM SFCR Exploitation Langchain Azure:</b> Outil d'exploitation de données SFCR (Rapport sur la solvabilité et la situation financière) pour l'analyse des organismes d'assurance en utilisant un LLM (GPT-4) et LangChain.</li>
   <li><b>LangChain Applications (En cours):</b> Développement de pipelines IA en utilisant LangChain et Azure, comme les chatbots et assistants basés sur les données.</li>
   <li><b>Advanced RAG (En cours):</b> Techniques avancées de Retrieval-Augmented Generation pour enrichir les modèles LLM avec des bases de connaissances.</li>
+  <li><b>Legal French Tracker:</b> Outil de suivi des évolutions réglementaires dans les textes législatifs français. L'outil commente les changements réglementaires et propose un résumé des dernières évolutions dans le but de faire gagner du temps aux juristes.</li>
 </ul>
 
 <h4 align="left">Machine Learning</h4>
@@ -69,10 +70,11 @@
 
 <h4 align="left">Large Language Models</h4>
 <ul>
-  <li><b>LLM Azure Whisper:</b> Tool for exploiting  videos for financial investors aimed at investors to generate financial analysis reports by combining Azure Whisper (Video to Text) and an LLM (GPT-4).</li>
+  <li><b>LLM Azure Whisper:</b> Tool for exploiting videos for financial investors aimed at investors to generate financial analysis reports by combining Azure Whisper (Video to Text) and an LLM (GPT-4).</li>
   <li><b>LLM SFCR Exploitation Langchain Azure:</b> A tool for leveraging SFCR (Solvency and Financial Condition Reports) data to analyze insurance entities using an LLM (GPT-4) and LangChain.</li>
   <li><b>LangChain Applications (Ongoing):</b> Development of AI pipelines using LangChain and Azure, such as chatbots and data-driven assistants.</li>
   <li><b>Advanced RAG (Ongoing):</b> Advanced techniques for Retrieval-Augmented Generation to enhance LLMs with knowledge bases.</li>
+  <li><b>Legal French Tracker:</b> A tool for tracking regulatory changes in French legislative texts. The tool comments on regulatory changes and provides a summary of the latest developments to save time for legal professionals.</li>
 </ul>
 
 <h4 align="left">Machine Learning</h4>
