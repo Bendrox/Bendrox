@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ouss </h1>
-<h3 align="center">A passionate Data scientist </h3>
+<h1 align="center">Hi 👋, I'm Ouss, a passionate Data scientist </h1>
+
+<h3 align="center">Languages and Tools:</h3>
 <br><br>
 
 <h3 align="center">Languages and Tools:</h3>
