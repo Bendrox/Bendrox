@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ouss, a passionate Data scientist </h1>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -62,3 +63,32 @@
 <ul>
   <li><b><a href="https://github.com/Bendrox/Open-Source_models_with_HuggingFace.git" target="_blank">Open-Source Models with Hugging Face</a></b>: Exploration de modèles Open Source (Text to Text, Speech to Text, Text to Speech, multi modal ...).</li>
 </ul>
+
+---
+
+<h3 align="left">My Personal Projects :</h3>
+
+<h4 align="left">Large Language Models</h4>
+<ul>
+  <li><b><a href="https://github.com/Bendrox/Legal-French-Tracker" target="_blank">Legal French Tracker</a></b>: A tool for tracking regulatory changes in French legislative texts. The tool comments on regulatory changes and provides a summary of the latest developments to save time for legal professionals.</li>
+  <li><b><a href="https://github.com/Bendrox/LLM_Azure_Whisper_For_Supervision.git" target="_blank">LLM Azure Whisper</a></b>: Tool for exploiting videos for financial investors aimed at investors to generate financial analysis reports by combining Azure Whisper (Video to Text) and an LLM (GPT-4).</li>
+  <li><b><a href="https://github.com/Bendrox/LLM_SFCR_exploit_Langchain_Azure.git" target="_blank">LLM SFCR Exploitation Langchain Azure</a></b>: A tool for leveraging SFCR (Solvency and Financial Condition Reports) data to analyze insurance entities using an LLM (GPT-4) and LangChain.</li>
+  <li><b><a href="https://github.com/Bendrox/Advanced-RAG.git" target="_blank">Advanced RAG (Ongoing)</a></b>: Advanced techniques for Retrieval-Augmented Generation to enhance LLMs with knowledge bases.</li>
+</ul>
+
+<h4 align="left">Machine Learning</h4>
+<ul>
+  <li><b><a href="https://github.com/Bendrox/DS_Valeo_challenge.git" target="_blank">DS Valeo Challenge</a></b>: A Machine Learning problem (supervised classification) with an imbalanced dataset and missing data to detect damaged parts at Valeo.</li>
+</ul>
+
+<h4 align="left">Data Analysis</h4>
+<ul>
+  <li><b><a href="https://github.com/Bendrox/DA_etude_bonvivre.git" target="_blank">DA Étude Bonvivre</a></b>: Construction of a dataset for studying 119 countries based on various selected criteria grouped under the notion of "bon vivre" (good living), with the establishment of country categories.</li>
+</ul>
+
+<h4 align="left">HuggingFace</h4>
+<ul>
+  <li><b><a href="https://github.com/Bendrox/Open-Source_models_with_HuggingFace.git" target="_blank">Open-Source Models with Hugging Face</a></b>: Exploration of Open Source models (Text to Text, Speech to Text, Text to Speech, multi-modal, etc.).</li>
+</ul>
+
+
