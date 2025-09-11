@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Ouss, a Data Scientist & AI Engineer | LLMs, RAG Systems & MCP </h1>
+<h1 align="center">Hi 👋, I'm Ouss, a Data Scientist & AI Engineer </h1>
+<h1 align="center">  LLMs, RAG Systems & MCP </h1>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
