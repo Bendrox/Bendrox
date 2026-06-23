@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ouss, an  AI Engineer & Data Scientist - LLMs, RAG , Agents & MCP </h1>
+<h1 align="center">Hi 👋, I'm Ouss, an  AI Engineer & Data Scientist - LLMs,RAG , Agents, MCP, Pytorch, JAX, LLM inference engineering </h1>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
