@@ -55,7 +55,6 @@
 
 <h4>🧠 Entraînement de modèles (from scratch) & Fine-tuning</h4>
 <ul>
-  <li><b><a href="https://github.com/Bendrox/AdeLIA_tatare_slm" target="_blank">Tatare LLM (AdeLIA)</a> 🔒</b> : Transformer decoder-only ~110M (style LLaMA/Mistral) entraîné <i>from scratch</i> pour le tatar et le russe — Grouped-Query Attention, YaRN RoPE, RMSNorm, SwiGLU, tokenizer BPE, curriculum learning, BF16 sur RTX 5090, servi via FastAPI (entraînement/inférence, streaming, export ONNX, compatible HuggingFace).</li>
   <li><b><a href="https://github.com/Bendrox/slm_from_scratch_jax" target="_blank">SLM from Scratch — JAX</a> 🔒</b> : entraînement d'un mini GPT-2 <i>from scratch</i> en JAX/XLA (Flax NNX, Optax, Grain, Orbax), architecture propre et modulaire, premiers entraînements et tests d'inférence réalisés.</li>
   <li><b><a href="https://github.com/Bendrox/Gpt2_from_scratch" target="_blank">GPT-2 from Scratch — JAX</a> 🔒</b> : entraînement expérimental d'un LLM léger à partir de zéro avec JAX (grad/jit/vmap, model & data sharding) orienté performance GPU.</li>
 </ul>
